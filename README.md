@@ -4,7 +4,7 @@ Jogo Campo Minado para terminal desenvolvido em Java puro, sem bibliotecas exter
 
 ## 🎬 Demo
 
-![Demo do jogo](demo.gif)
+![Demo do jogo](campoMinado.gif)
 
 ## 🎮 Como jogar
 
